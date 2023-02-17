@@ -1,0 +1,93 @@
+Plan van Aanpak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Aanleiding
+In dit document ga ik een plan van aanpak maken voor het bedenken, ontwerpen en realiseren van een controller voor een User Interface.
+
+
+2. Doelstelling
+Een project maken dat bestaat uit twee webpagina’s. Een controller en een onderwerp dat zichtbaar bedient kan worden door de controller.
+De controller is een eenvoudige User Interface, de controller kan ten minste 4 verschillende interacties met het ontwerp kunnen uitvoeren. Mijn onderwerp word het besturen van een personage.
+
+Ik ga gebruik maken van reactJs om mijn project uit te werken.
+
+Dit ga ik doen door eerst een idee te bedenken en uitwerken in wireframes en een low-fidelity prototype te maken.
+
+Daarna ga ik de datastucuur opzetten,data type vaststellen,data source vaststellen en de datasource en database programmeren met PHP en  nodeJS.
+Daarna schrijf ik een handleiding voor installatie en gebruik.
+
+Daarna ga ik het project uitwerken tot een eindproduct.
+
+Voor mijn planning maak ik gebruik van een sprintplanning per week.
+
+3. Op te leveren producten
+    • Plan van Aanpak
+    • Project Backlog
+    • Sprint Planningen
+    • concept/ontwerpschetsen
+    • lo fi prototype / Proof of Concept
+    • code
+    • Verslagen van
+    • sprint reviews
+    • sprint retrospectives
+    • Verslag van gebruikerstest en beoordelingsformulier/Review
