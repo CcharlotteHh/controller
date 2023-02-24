@@ -1,0 +1,90 @@
+Retrospective Controller Project
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In dit verslag ga ik terugblikken op het controller project. Ik ga bespreken wat er goed ging en wat ik beter kan doen.
+Ik ga terugblikken op mijn planning tijdens de twee sprints en ga vertellen wat ik geleerd heb.
+
+Hoe zijn de sprints verlopen?
+Tijdens de eerste sprint was mijn planning om een idee te bedenken en deze uit te werken door een plan van aanpak te schrijven en een simpel wireframe te maken. IK was ook van plan om de basis van een simpel project op te zetten en met een control panel en tv scherm die beïnvloed kan worden door deze controller. 
+
+Ik was de eerste week nog heel zoekend naar wat ik nou concreet ging doen. Ik bleef mijn plan aanpassen omdat ik vaak weer op nieuwe ideeen kwam die ik wou toevoegen of gebruiken. Hierdoor heb ik geleerd over W Websockets en hier zal ik later op school of op stage nog mee te maken krijgen en daardoor vind ik het fijn dat ik nu alvast een beetje kennis heb over deze techniek.
+
+Ik heb een server opgezet waar word geregistreerd wanneer er een client met de websocket server word geconnect. Deze wilde ik in week 2 gaan gebruiken in mijn Controller.
+
+
+Wat ging er goed?
+
+Tijdens het maken van dit project heb ik kennisgemaakt met Websockets.
+Ik heb mezelf uitegedaag om te leren en ondanks dat het moeilijk was met planning en tevreden zijn met mezelf het ik toch iets gemaakt waar ik verder op kan bouwen
+
+Wat ging er minder?
+Het werken naar mijn planning is minder gegaan. Ik had in week 1 nog geen concreet genoeg idee van wat ik wilde doen. Dus het wat moeilijk om mijn project in stapjes op te delen. Hierdoor had ik af toe het idee dat ik maar wat aan het doen was. En raakte ik gedemotiveerd en heb ik niet de rust kunnen hebben om nieuwe technieken meteen goed te gebruiken in mijn project.
+Ik vond dat jammer omdat ik weet dat als ik mijn project beter had opgesplitst in stapjes. En wel concreet voor mezelf had 
+
+Wat zou ik de volgende keer anders doen? 
+
+Ik zou mijn beter in stapjes opdelen en ik zou deze stappen nog beter verwoorden voor mezelf. Hierna zou ik deze in een to-do lijst zetten die voor mij overzichtelijk is. Ik zou wat meer de focus op mijn bestaande project houden en niet te vaak opnieuw beginnen omdat ik weer inspiratie kreeg van het internet. Ik wil nog meer gaan gebruiken als recourse en niet als een soort handboek van hoe ik mijn project uitwerken. 
+
+Ik zou minder perfectionistisch zijn tijdens het opbouwen van het project.
+
+Op deze manier heb ik meer zekerheid in mezelf en kan ik meer leren van het make van een project en uiteindelijk een beter eindproduct maken.
+
+

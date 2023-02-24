@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './App.css'
-import Tv from './components/Tv.js';
-import Control from './components/Control'
+import Tv from './Tv.js';
+import Control from './Control'
 
 function App () {
 
